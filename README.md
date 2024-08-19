@@ -37,18 +37,6 @@ RepoSafari/
 └── script.js         # JavaScript file for functionality
 ```
 
-## Contribution
 
-Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
 
 **RepoSafari** is a project aimed at enhancing the visibility and accessibility of GitHub repositories through a simple and effective web interface.
